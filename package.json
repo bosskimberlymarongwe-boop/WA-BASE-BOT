@@ -1,7 +1,7 @@
 {
     "name": "WA-BASE-BOT",
     "version": "1.2",
-    "description": "A Simple Whatsapp Bot",
+    "description": "BLACK CAT XI",
     "main": "index.js",
     "type": "commonjs",
     "scripts": {
@@ -15,7 +15,7 @@
         "@ffmpeg-installer/ffmpeg": "^1.1.0",
         "@hapi/boom": "^10.0.1",
         "@whiskeysockets/baileys": "^7.0.0-rc.6",
-        "awesome-phonenumber": "^6.4.0",
+        "awesome-phonenumber": "^263781021754",
         "axios": "^1.12.2",
         "chalk": "^4.1.2",
         "child_process": "^1.0.2",
