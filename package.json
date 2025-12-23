@@ -1,5 +1,5 @@
 {
-    "name": "WA-BASE-BOT",
+    "name": "BLACK CAT XI",
     "version": "1.2",
     "description": "BLACK CAT XI",
     "main": "index.js",
@@ -7,7 +7,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "Debraj",
+    "author": "Cyberscow",
     "license": "MIT",
     "dependencies": {
         "@adiwajshing/keyed-db": "^0.2.4",
